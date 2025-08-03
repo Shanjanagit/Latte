@@ -27,7 +27,7 @@ Order data is serialized using Python's pickle module.
 Bill includes date and time, customer name, and contact details.
 
 ***Requirements***
-Python 3.x
+Python 3.10
 
 No external libraries are required beyond the Python standard library.
 
