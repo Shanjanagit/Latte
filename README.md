@@ -1,4 +1,4 @@
-##Latte Love - Coffee Shop Ordering System
+## Latte Love - Coffee Shop Ordering System
 
 Welcome to Latte Love, a simple command-line based ordering system for a fictional coffee shop. This Python program allows customers to place orders for a variety of beverages and desserts, and generates a final bill with optional discounts.
 
